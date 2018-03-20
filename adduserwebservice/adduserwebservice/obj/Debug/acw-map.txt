@@ -1,0 +1,4 @@
+adduserwebservice.MainActivity, adduserwebservice;md554ebded49d00d81fdd5756b36c1458e9.MainActivity
+adduserwebservice.MainActivity, adduserwebservice, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md554ebded49d00d81fdd5756b36c1458e9.MainActivity
+adduserwebservice.MainActivity;md554ebded49d00d81fdd5756b36c1458e9.MainActivity
+adduserwebservice.MainActivity;md554ebded49d00d81fdd5756b36c1458e9.MainActivity
